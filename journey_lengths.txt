@@ -1,0 +1,10 @@
+Paris London 2
+Amsterdam London 4
+Berlin Paris 4
+Brussels Zurich 3
+Frankfurt Paris 2
+Frankfurt Amsterdam 2
+Amsterdam Brussels 1
+Frankfurt Berlin 2
+Amsterdam Paris 3
+Brussels Paris 2

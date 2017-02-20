@@ -1,0 +1,22 @@
+London Paris 9 12 19
+Paris London 9 11 23
+Amsterdam London 8 14
+London Amsterdam 10 16
+Berlin Paris 10 20 
+Paris Berlin 11 20
+Brussels Zurich 10 15 21
+Zurich Brussels 8 16
+Frankfurt Paris 6 10 17
+Paris Frankfurt 7 11 17
+Frankfurt Amsterdam 12 20
+Amsterdam Frankfurt 11 21
+Amsterdam Brussels 7 10 13 16 
+Brussels Amsterdam 8 11 14 19
+Frankfurt Berlin 9 12 16
+Berlin Frankfurt 9 13 19
+Amsterdam Paris 6 12 20
+Paris Amsterdam 8 13 19
+Brussels Paris 7 10 16
+Paris Brussels 8 11 17
+Zurich London 13 19
+London Zurich 12 20
